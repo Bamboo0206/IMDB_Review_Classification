@@ -1,4 +1,4 @@
-# IMDB_Review_Classification / IMDB 评论分类
+# IMDB_Review_Classification / IMDB 评论情感分类
 Preprocess with bag of Word, TF-IDF, word2vec respectively. Classification with Naive Bayes, SVM, LSTM respectively. Dataset: http://ai.stanford.edu/~amaas/data/sentiment/
 
 
